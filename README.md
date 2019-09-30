@@ -1,1 +1,1 @@
-## Write some motivational lines..!
+## Write some motivational lines in motivation.txt..!
